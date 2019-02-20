@@ -64,7 +64,7 @@ public class CMain {
 	}
 
 	private static void SwitchStatement() {
-		char ch = 'a';
+		char ch = 'c';
 
 		switch (ch) {
 		case 'a':
